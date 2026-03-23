@@ -1,0 +1,47 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+:root {
+  --era-1-color: #4f46e5; /* Deep Indigo (2020-2021) */
+  --era-2-color: #f59e0b; /* Sunset Orange/Gold (2022-2023) */
+  --era-3-color: #10b981; /* Emerald Green (2024-2026) */
+}
+
+@layer utilities {
+  .bento-card {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 1.5rem;
+  }
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'San Francisco', 'Helvetica Neue', sans-serif;
+  overflow-x: hidden;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Scroll snap root container */
+.snap-y-container {
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+  height: 100vh;
+  scroll-behavior: smooth;
+}
+
+.snap-section {
+  scroll-snap-align: start;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}

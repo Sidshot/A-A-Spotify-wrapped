@@ -1,0 +1,5 @@
+=== VALIDATION LOGS ===
+Total unique tracks count across all 6 years: 5338
+Exact total listening hours: 1417.07
+Most Skipped Artist (min 50 plays): Karan Aujla (51.9% skip rate)
+=======================

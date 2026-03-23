@@ -1,0 +1,8 @@
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.DS_Store
+my_spotify_data.zip
+Spotify Extended Streaming History

@@ -1,0 +1,191 @@
+{
+  "totalHours": 1417.07,
+  "uniqueTracks": 5338,
+  "topArtist": {
+    "name": "Pritam",
+    "loyaltyScore": 512585.7296416938,
+    "skipRate": 0.1414965986394558,
+    "total_plays": 735,
+    "plays_gt_30k": 660,
+    "ms_played": 157363819,
+    "unique_days": 307,
+    "skipped": 104,
+    "topTrack": "Tum Se Hi"
+  },
+  "topSong": "Father Stretch My Hands Pt. 1",
+  "listenerType": "The Seeker",
+  "peakHour": 0,
+  "hardwareAudit": {
+    "Realme": 12830,
+    "Mobile Other": 12746,
+    "Samsung": 3699,
+    "Desktop/Web": 228,
+    "Other": 8
+  },
+  "totalDays": 1247,
+  "topArtistsList": [
+    {
+      "name": "Pritam",
+      "loyaltyScore": 512585.7296416938,
+      "skipRate": 0.1414965986394558,
+      "total_plays": 735,
+      "plays_gt_30k": 660,
+      "ms_played": 157363819,
+      "unique_days": 307,
+      "skipped": 104,
+      "topTrack": "Tum Se Hi"
+    },
+    {
+      "name": "Frank Ocean",
+      "loyaltyScore": 506396.16279069765,
+      "skipRate": 0.22636103151862463,
+      "total_plays": 698,
+      "plays_gt_30k": 635,
+      "ms_played": 130650210,
+      "unique_days": 258,
+      "skipped": 158,
+      "topTrack": "Ivy"
+    },
+    {
+      "name": "The Weeknd",
+      "loyaltyScore": 394539.8265682657,
+      "skipRate": 0.1404399323181049,
+      "total_plays": 591,
+      "plays_gt_30k": 550,
+      "ms_played": 106920293,
+      "unique_days": 271,
+      "skipped": 83,
+      "topTrack": "Stargirl Interlude"
+    },
+    {
+      "name": "Drake",
+      "loyaltyScore": 449923.81696428574,
+      "skipRate": 0.126953125,
+      "total_plays": 512,
+      "plays_gt_30k": 491,
+      "ms_played": 100782935,
+      "unique_days": 224,
+      "skipped": 65,
+      "topTrack": "Passionfruit"
+    },
+    {
+      "name": "Kendrick Lamar",
+      "loyaltyScore": 491246.3288888889,
+      "skipRate": 0.184,
+      "total_plays": 500,
+      "plays_gt_30k": 472,
+      "ms_played": 110530424,
+      "unique_days": 225,
+      "skipped": 92,
+      "topTrack": "Count Me Out"
+    },
+    {
+      "name": "A.R. Rahman",
+      "loyaltyScore": 460857.83467741933,
+      "skipRate": 0.08902691511387163,
+      "total_plays": 483,
+      "plays_gt_30k": 460,
+      "ms_played": 114292743,
+      "unique_days": 248,
+      "skipped": 43,
+      "topTrack": "Nazar Laaye - Reprise"
+    },
+    {
+      "name": "Kanye West",
+      "loyaltyScore": 370532.85026737966,
+      "skipRate": 0.25957446808510637,
+      "total_plays": 470,
+      "plays_gt_30k": 422,
+      "ms_played": 69289643,
+      "unique_days": 187,
+      "skipped": 122,
+      "topTrack": "Father Stretch My Hands Pt. 1"
+    },
+    {
+      "name": "Travis Scott",
+      "loyaltyScore": 471051.6705202312,
+      "skipRate": 0.24941176470588236,
+      "total_plays": 425,
+      "plays_gt_30k": 406,
+      "ms_played": 81491939,
+      "unique_days": 173,
+      "skipped": 106,
+      "topTrack": "HIGHEST IN THE ROOM"
+    },
+    {
+      "name": "Ritviz",
+      "loyaltyScore": 357205.1210526316,
+      "skipRate": 0.0514018691588785,
+      "total_plays": 428,
+      "plays_gt_30k": 385,
+      "ms_played": 67868973,
+      "unique_days": 190,
+      "skipped": 22,
+      "topTrack": "Liggi"
+    },
+    {
+      "name": "AP Dhillon",
+      "loyaltyScore": 338213.8579881657,
+      "skipRate": 0.15869017632241814,
+      "total_plays": 397,
+      "plays_gt_30k": 359,
+      "ms_played": 57158142,
+      "unique_days": 169,
+      "skipped": 63,
+      "topTrack": "Toxic"
+    }
+  ],
+  "topSongsList": [
+    {
+      "name": "Father Stretch My Hands Pt. 1",
+      "count": 187
+    },
+    {
+      "name": "The Less I Know The Better",
+      "count": 115
+    },
+    {
+      "name": "See You Again (feat. Kali Uchis)",
+      "count": 115
+    },
+    {
+      "name": "Count Me Out",
+      "count": 105
+    },
+    {
+      "name": "Sundress",
+      "count": 104
+    },
+    {
+      "name": "Passionfruit",
+      "count": 102
+    },
+    {
+      "name": "Ivy",
+      "count": 97
+    },
+    {
+      "name": "New Person, Same Old Mistakes",
+      "count": 97
+    },
+    {
+      "name": "SLOW DANCING IN THE DARK",
+      "count": 94
+    },
+    {
+      "name": "Until I Found You",
+      "count": 90
+    }
+  ],
+  "mostlySkippedArtist": {
+    "name": "Karan Aujla",
+    "loyaltyScore": 334980.80555555556,
+    "skipRate": 0.5185185185185185,
+    "total_plays": 81,
+    "plays_gt_30k": 76,
+    "ms_played": 12059309,
+    "unique_days": 36,
+    "skipped": 42,
+    "topTrack": "Softly"
+  }
+}
