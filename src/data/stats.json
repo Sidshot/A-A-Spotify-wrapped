@@ -187,5 +187,173 @@
     "unique_days": 36,
     "skipped": 42,
     "topTrack": "Softly"
+  },
+  "monthCounts": [
+    303227899,
+    195028645,
+    337383320,
+    578817237,
+    577728677,
+    386746027,
+    316015017,
+    464905094,
+    417595924,
+    547515366,
+    489547947,
+    486946216
+  ],
+  "dayOfWeekCounts": [
+    716426514,
+    626962114,
+    677971868,
+    726877009,
+    794833825,
+    764880223,
+    793505816
+  ],
+  "longestStreak": 58,
+  "maxDay": {
+    "date": "2022-10-02",
+    "hours": "9.5"
+  },
+  "eraBreakdown": {
+    "2020-2021": {
+      "topTracks": [
+        {
+          "name": "Liggi",
+          "count": 65
+        },
+        {
+          "name": "Dil Mere",
+          "count": 45
+        },
+        {
+          "name": "Buttabomma - Telugu",
+          "count": 45
+        },
+        {
+          "name": "Chidiya",
+          "count": 40
+        },
+        {
+          "name": "Riha",
+          "count": 40
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "ms_played": 68294725
+        },
+        {
+          "name": "Pritam",
+          "ms_played": 51983307
+        },
+        {
+          "name": "Ali Sethi",
+          "ms_played": 47531514
+        },
+        {
+          "name": "Ritviz",
+          "ms_played": 42829627
+        },
+        {
+          "name": "A.R. Rahman",
+          "ms_played": 42663272
+        }
+      ]
+    },
+    "2022-2023": {
+      "topTracks": [
+        {
+          "name": "Father Stretch My Hands Pt. 1",
+          "count": 165
+        },
+        {
+          "name": "See You Again (feat. Kali Uchis)",
+          "count": 104
+        },
+        {
+          "name": "Count Me Out",
+          "count": 100
+        },
+        {
+          "name": "Sundress",
+          "count": 93
+        },
+        {
+          "name": "New Person, Same Old Mistakes",
+          "count": 93
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Frank Ocean",
+          "ms_played": 113590251
+        },
+        {
+          "name": "Kendrick Lamar",
+          "ms_played": 100273598
+        },
+        {
+          "name": "The Weeknd",
+          "ms_played": 93356598
+        },
+        {
+          "name": "Drake",
+          "ms_played": 91306359
+        },
+        {
+          "name": "Pritam",
+          "ms_played": 85793367
+        }
+      ]
+    },
+    "2024-2026": {
+      "topTracks": [
+        {
+          "name": "The Less I Know The Better",
+          "count": 38
+        },
+        {
+          "name": "BURN",
+          "count": 34
+        },
+        {
+          "name": "FE!N (feat. Playboi Carti)",
+          "count": 31
+        },
+        {
+          "name": "HIGHEST IN THE ROOM",
+          "count": 29
+        },
+        {
+          "name": "MY EYES",
+          "count": 26
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Travis Scott",
+          "ms_played": 33397845
+        },
+        {
+          "name": "Tame Impala",
+          "ms_played": 21795572
+        },
+        {
+          "name": "Pritam",
+          "ms_played": 19587145
+        },
+        {
+          "name": "Frank Ocean",
+          "ms_played": 17059959
+        },
+        {
+          "name": "Metro Boomin",
+          "ms_played": 12111832
+        }
+      ]
+    }
   }
 }
